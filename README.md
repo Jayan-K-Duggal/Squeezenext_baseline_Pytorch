@@ -1,7 +1,7 @@
 # Squeezenext_baseline_Pytorch
 Squeezenext baseline architecture implementation in Pytorch with live loss and accuracy update using livelossplot package.
 
-Software used : <br />
+__Software used__ : <br />
 Python 3.6 <br />
 Pytorch 1.0.0 <br />
 Spyder 3.3.1 <br />
